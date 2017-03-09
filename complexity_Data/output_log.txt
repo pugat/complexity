@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   10.18.15.4279
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.177 seconds
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.659554 ms
+The referenced script on this Behaviour (Game Object 'Tetikleyici') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.053824 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 895.
+Total: 7.642071 ms (FindLiveObjects: 0.040296 ms CreateObjectMapping: 0.022518 ms MarkObjects: 0.207012 ms  DeleteObjects: 7.371453 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c78 -> priority: 1 
