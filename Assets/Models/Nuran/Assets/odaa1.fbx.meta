@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9db2f66f65e323942a35e09c8bb1310c
+timeCreated: 1488282349
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "alc\u0131pan"
+    100002: ambientLight1
+    100004: "a\xE7\u0131l\u0131rencere"
+    100006: "cerceve kenrl\u0131k"
+    100008: "cerceve kenrl\u0131k.001"
+    100010: "cerceve kenrl\u0131k.002"
+    100012: "cerceve kenrl\u0131k.003"
+    100014: duvar
+    100016: duvar1
+    100018: //RootNode
+    100020: pCube1
+    100022: pCube2
+    100024: pCube3
+    100026: pCube4
+    100028: pCube5
+    100030: pCube6
+    100032: pCube7
+    100034: pCube8
+    100036: pencere
+    100038: pencere1
+    100040: Plane.003
+    100042: Plane.004
+    100044: Plane.005
+    100046: Plane.006
+    100048: transform1
+    100050: transform10
+    100052: transform11
+    100054: transform12
+    100056: transform13
+    100058: transform14
+    100060: transform15
+    100062: transform16
+    100064: transform2
+    100066: transform3
+    100068: transform4
+    100070: transform5
+    100072: transform6
+    100074: transform7
+    100076: transform8
+    100078: transform9
+    400000: "alc\u0131pan"
+    400002: ambientLight1
+    400004: "a\xE7\u0131l\u0131rencere"
+    400006: "cerceve kenrl\u0131k"
+    400008: "cerceve kenrl\u0131k.001"
+    400010: "cerceve kenrl\u0131k.002"
+    400012: "cerceve kenrl\u0131k.003"
+    400014: duvar
+    400016: duvar1
+    400018: //RootNode
+    400020: pCube1
+    400022: pCube2
+    400024: pCube3
+    400026: pCube4
+    400028: pCube5
+    400030: pCube6
+    400032: pCube7
+    400034: pCube8
+    400036: pencere
+    400038: pencere1
+    400040: Plane.003
+    400042: Plane.004
+    400044: Plane.005
+    400046: Plane.006
+    400048: transform1
+    400050: transform10
+    400052: transform11
+    400054: transform12
+    400056: transform13
+    400058: transform14
+    400060: transform15
+    400062: transform16
+    400064: transform2
+    400066: transform3
+    400068: transform4
+    400070: transform5
+    400072: transform6
+    400074: transform7
+    400076: transform8
+    400078: transform9
+    2300000: "alc\u0131pan"
+    2300002: "cerceve kenrl\u0131k"
+    2300004: "cerceve kenrl\u0131k.001"
+    2300006: "cerceve kenrl\u0131k.002"
+    2300008: "cerceve kenrl\u0131k.003"
+    2300010: Plane.006
+    3300000: "alc\u0131pan"
+    3300002: "cerceve kenrl\u0131k"
+    3300004: "cerceve kenrl\u0131k.001"
+    3300006: "cerceve kenrl\u0131k.002"
+    3300008: "cerceve kenrl\u0131k.003"
+    3300010: Plane.006
+    4300000: "alc\u0131pan"
+    4300002: "cerceve kenrl\u0131k.003"
+    4300004: "cerceve kenrl\u0131k"
+    4300006: "cerceve kenrl\u0131k.001"
+    4300008: "cerceve kenrl\u0131k.002"
+    4300010: Plane.006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
