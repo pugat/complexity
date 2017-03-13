@@ -5,16 +5,20 @@ using UnityEngine.UI;
 
 public class Not : MonoBehaviour {
 
-public GameObject _textTransform;
-//public Text _text;
-bool not = false;
+    public GameObject _textTransform;
+    public Transform _kapi;
 
-void Update(){
-	if(not == true && Input.GetKeyDown(KeyCode.E)){
-		_textTransform.SetActive(true);
-	
-	}
-}
+    //public Text _text;
+    bool not = false;
+
+    void Update()
+    {
+        if (not == true && Input.GetKeyDown(KeyCode.E))
+        {
+            _textTransform.SetActive(true);
+
+        }
+    }
 
 	void OnTriggerEnter(Collider coll){
 		if(coll.tag == "Player")
@@ -28,6 +32,8 @@ void Update(){
 	IEnumerator NotI(){
 		yield return new WaitForSeconds(5);
 		_textTransform.SetActive(false);
+        _kapi.GetComponent<BoxCollider>().enabled = false;
 		not = false;
+        StopCoroutine(NotI());
 	}
 }
