@@ -19,23 +19,31 @@ Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Ma
 Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.065 seconds
+- Completed reload, in  0.033 seconds
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.215408 ms
+UnloadTime: 2.752396 ms
 The referenced script on this Behaviour (Game Object 'Tetikleyici') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.618965 ms
+UnloadTime: 4.869137 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2425.
-Total: 4.586668 ms (FindLiveObjects: 0.146567 ms CreateObjectMapping: 0.047802 ms MarkObjects: 0.259555 ms  DeleteObjects: 4.132347 ms)
+Total: 4.065581 ms (FindLiveObjects: 0.194370 ms CreateObjectMapping: 0.053728 ms MarkObjects: 0.217679 ms  DeleteObjects: 3.599408 ms)
+
+E ye bas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E ye bas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1ce8 -> priority: 1 
+  Thread -> id: 20b8 -> priority: 1 
