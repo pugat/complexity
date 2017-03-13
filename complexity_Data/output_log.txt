@@ -19,121 +19,39 @@ Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Ma
 Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.026 seconds
+- Completed reload, in  0.166 seconds
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\mahmu\Documents\GitHub\complexity\complexity_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.912791 ms
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
-Scene with build index: 2 couldn't be loaded because it has not been added to the build settings.
-To add a scene to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 122)
-
+UnloadTime: 2.839309 ms
 The referenced script on this Behaviour (Game Object 'Tetikleyici') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.594964 ms
+UnloadTime: 30.531567 ms
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2425.
-Total: 3.163260 ms (FindLiveObjects: 0.102321 ms CreateObjectMapping: 0.034765 ms MarkObjects: 0.196740 ms  DeleteObjects: 2.829433 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2488.
+Total: 4.319606 ms (FindLiveObjects: 0.123259 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.319210 ms  DeleteObjects: 3.837631 ms)
 
-E ye bas
+E'ye bas
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-E ye bas
+E'ye bas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sasa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E'ye bas
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: f80 -> priority: 1 
+  Thread -> id: 2104 -> priority: 1 
