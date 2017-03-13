@@ -19,7 +19,7 @@ void Update(){
 	void OnTriggerEnter(Collider coll){
 		if(coll.tag == "Player")
 		{
-			Debug.Log("E ye bas");
+			Debug.Log("E'ye bas");
 			not = true;
 			StartCoroutine(NotI());
 		}
